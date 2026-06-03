@@ -1,0 +1,2 @@
+# Adaptation-for-Visual-Scene-Artifacts-in-Cloth-Changing-Person-Re-identification
+Cloth-Changing Person Re-identification (CC-ReID) aims to identify the same pedestrian wearing different clothes across non-overlapping camera views, which has received widespread attention in the fields of computer vision and artificial intelligence. We propose an Adaptation for Visual Scene Artifacts (AVSA) for the CC-ReID task.
